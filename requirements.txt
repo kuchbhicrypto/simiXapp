@@ -1,7 +1,0 @@
-tensorflow
-faiss-cpu
-opencv-python-headless
-numpy
-scikit-image
-pillow
-streamlit
